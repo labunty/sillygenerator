@@ -41,4 +41,4 @@ newStory = newStory.replace('300 pounds',weight);
   }
 
   story.textContent = newStory;
-  story.style.visibility = 'visible';
+  story.style.visibility = 'visible'; }
